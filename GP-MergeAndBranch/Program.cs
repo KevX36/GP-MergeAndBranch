@@ -10,7 +10,7 @@ namespace GP_MergeAndBranch
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("insert code here");
         }
     }
 }
