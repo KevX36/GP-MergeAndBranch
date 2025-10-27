@@ -11,7 +11,11 @@ namespace GP_MergeAndBranch
         static void Main(string[] args)
         {
             Console.WriteLine("This is a line");
+
             Console.WriteLine("This is also a line");
+
+            Console.WriteLine("yes it is");
+            
         }
     }
 }
